@@ -1,0 +1,12 @@
+{
+  "name": "crudoperations",
+  "displayName": "crudoperations",
+  "expo": {
+    "name": "crudoperations",
+    "slug": "crudoperations",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
